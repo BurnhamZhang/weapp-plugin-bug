@@ -1,0 +1,33 @@
+{
+  "miniprogramRoot": "miniprogram/miniprogram/",
+  "pluginRoot": "miniprogram/plugin/",
+  "compileType": "plugin",
+  "appid": "wxdcd2140270a99720",
+  "projectname": "test-plugin",
+  "description": "",
+  "setting": {
+    "urlCheck": true,
+    "es6": false,
+    "enhance": false,
+    "compileHotReLoad": false,
+    "postcss": false,
+    "minified": false,
+    "newFeature": true,
+    "babelSetting": {
+      "ignore": [],
+      "disablePlugins": [],
+      "outputPath": ""
+    }
+  },
+  "libVersion": "3.2.3",
+  "srcMiniprogramRoot": "miniprogram/",
+  "packOptions": {
+    "ignore": [],
+    "include": []
+  },
+  "condition": {},
+  "editorSetting": {
+    "tabIndent": "insertSpaces",
+    "tabSize": 2
+  }
+}
