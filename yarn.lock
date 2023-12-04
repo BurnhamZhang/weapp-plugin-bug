@@ -1660,7 +1660,7 @@
     "@tarojs/runtime" "3.6.20"
     "@tarojs/shared" "3.6.20"
 
-"@tarojs/cli@3.6.20":
+"@tarojs/cli@^3.6.20":
   version "3.6.20"
   resolved "https://registry.npmmirror.com/@tarojs/cli/-/cli-3.6.20.tgz#19032b73a8049dd761970e8553af68467f7b79e0"
   integrity sha512-v+ysy/W2c/DOXhC8NEjbguStrm5mhOS75YSs6M+hl6KGfbCvi7iamwPozaJ0joUw+sZbkyUMx1IawKW2nSnREg==
